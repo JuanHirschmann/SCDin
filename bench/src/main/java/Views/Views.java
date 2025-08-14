@@ -653,8 +653,9 @@ public class Views implements ViewListener {
             this.dialog.setVisible(true);
             this.popupVisible = true;
 
-        }
-        if (frame.getInputPanel().userMessageAlert.isShowing()) {
+        }else
+        {
+
             this.popupVisible = false;
         }
 

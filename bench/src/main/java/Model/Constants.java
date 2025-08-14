@@ -107,8 +107,8 @@ public final class Constants {
     public static final int TORQUE_TIME_BUFFER_SIZE = 1024;
     public static final String TORQUE_EQUATION_PARAMS = TEST_DATA_PATH + "TORQUE_EQUATION.";
     public static final String TORQUE_BIAS = TORQUE_EQUATION_PARAMS + "A";
-    public static final String QUADRATIC_COEFF = TORQUE_EQUATION_PARAMS + "B";
-    public static final String LINEAR_COEFF = TORQUE_EQUATION_PARAMS + "C";
+    public static final String LINEAR_COEFF = TORQUE_EQUATION_PARAMS + "B";
+    public static final String QUADRATIC_COEFF = TORQUE_EQUATION_PARAMS + "C";
     public static final String INERTIA_COEFF = TORQUE_EQUATION_PARAMS + "D";
 
     public static final String EXTERNAL_SIGNALS_PATH = TEST_DATA_PATH + "EXTERNAL_SIGNALS.";

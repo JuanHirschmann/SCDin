@@ -20,6 +20,7 @@ import static Model.Constants.TORQUE_VS_SPEED_SELECTED;
 import static Model.Constants.CURRENT_ERROR;
 import static Model.Constants.DUT_CLEAR_TO_RECEIVE;
 import static Model.Constants.ENABLE_ACTIVE_LINEMODULE;
+import static Model.Constants.ENABLE_TEST_AXIS;
 import static Model.Constants.ENABLE_SIMULATOR_AXIS;
 import static Model.Constants.KEEPALIVE_OVERRIDE;
 import static Model.Constants.MEASURED_SIMULATOR_CURRENT;
@@ -767,9 +768,9 @@ public class Model {
 
     public void enableDUTAxis(boolean queue) throws Exception {
         if (queue) {
-            queueWriteCommand(DUT_AXIS_ENABLE, "TRUE");
+            queueWriteCommand(ENABLE_TEST_AXIS, "TRUE");
         } else {
-            this.writeVar("TRUE", VAR_PATH, DUT_AXIS_ENABLE);
+            this.writeVar("TRUE", VAR_PATH, ENABLE_TEST_AXIS);
 
         }
     }

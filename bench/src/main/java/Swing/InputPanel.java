@@ -162,8 +162,8 @@ public class InputPanel extends JPanel {
         gbc.gridx = 0;
         gbc.gridy = 1;
         gbc.gridheight = 2;
-        gbc.gridwidth = 3;
-        gbc.weightx = 0.5;
+        gbc.gridwidth = 4;
+        gbc.weightx = 1;
         gbc.weighty = 1;
         gbc.fill = GridBagConstraints.BOTH;
         add(variablesPanel, gbc);
