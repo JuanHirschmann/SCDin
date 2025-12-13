@@ -22,19 +22,17 @@ SCDin es un sistema de simulación de carga dinámica para el ensayo de disposit
 ## Ejemplos de aplicación
 Se diseñó SCDin para poder realizar simular condiciones de carga en distinos sistemas mecánicos. A continuación algunos ejemplos:
 
--Simulación de condiciones de carga para vehículos eléctricos y convencionales.
-
--Simulación de condiciones de carga para generadores eólicos y mareomotrices.
-
--Simulación de condiciones de carga para máquinas herramienta.
+- Simulación de condiciones de carga para vehículos eléctricos y convencionales.
+- Simulación de condiciones de carga para generadores eólicos y mareomotrices.
+- Simulación de condiciones de carga para máquinas herramienta.
 
 ## Instalación
 En la carpeta de "Installer" del repositorio se presenta un instalador del cliente de SCDin. El software desarrollado para el sistema de accionamientos no está disponible para su descarga, pero puede ser consultado en el anexo de la tesis de grado. 
 
 ## Documentación
--[Tesis de grado.](https://github.com/JuanHirschmann/SCDin/blob/main/bench/docs/Hirschmann%20-%20Tesis%20de%20grado.pdf)
+- [Tesis de grado.](https://github.com/JuanHirschmann/SCDin/blob/main/bench/docs/Hirschmann%20-%20Tesis%20de%20grado.pdf)
 
--[Manual de operación.](https://github.com/JuanHirschmann/SCDin/blob/main/bench/docs/Manual%20SCDin.pdf)
+- [Manual de operación.](https://github.com/JuanHirschmann/SCDin/blob/main/bench/docs/Manual%20SCDin.pdf)
 ## Licencia
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
