@@ -17,7 +17,7 @@ SCDin es un sistema de simulación de carga dinámica para el ensayo de disposit
 - Adquisición de datos: se presentan 5 variables en tiempo real (Potencia activa [kW], Tensión de salida [Vrms], Corriente de salida [Arms], Velocidad angular [rad/s] y Torque electromécanico [Nm]). La actualización de variables es cada 100ms y se almacenan en formato CSV.
 
 ## Ejemplos de aplicación
-Se diseño SCDin para poder realizar simular condiciones de carga en distinos sistemas mecánicos. A continuación algunos ejemplos:
+Se diseñó SCDin para poder realizar simular condiciones de carga en distinos sistemas mecánicos. A continuación algunos ejemplos:
 -Simulación de condiciones de carga para vehículos.
 -Simulación de condiciones de carga para generadores eólicos y mareomotrices.
 -Simulación de condiciones de carga para máquinas herramienta.
