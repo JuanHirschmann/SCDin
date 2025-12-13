@@ -23,7 +23,7 @@ Se diseño SCDin para poder realizar simular condiciones de carga en distinos si
 -Simulación de condiciones de carga para máquinas herramienta.
 
 ## Instalación
-En la carpeta de "Installer" del repositorio se entrega un instalador del cliente de SCDin. El software desarrollado para el sistema de accionamientos no está disponible libremente. 
+En la carpeta de "Installer" del repositorio se presenta un instalador del cliente de SCDin. El software desarrollado para el sistema de accionamientos no está disponible libremente. 
 
 ## Documentación
 
