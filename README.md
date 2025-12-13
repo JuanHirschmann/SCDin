@@ -27,6 +27,7 @@ En la carpeta de "Installer" del repositorio se presenta un instalador del clien
 
 ## Documentación
 -[Tesis de grado.](https://github.com/JuanHirschmann/SCDin/blob/main/bench/docs/Hirschmann%20-%20Tesis%20de%20grado.pdf)
+
 -[Manual de operación.](https://github.com/JuanHirschmann/SCDin/blob/main/bench/docs/Manual%20SCDin.pdf)
 ## Licencia
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
