@@ -5,7 +5,7 @@
 # SCDin - Simulador de Carga Dinámica
 Departamento de Energía - FIUBA.
 
-SCDin es un sistema de simulación de carga dinámica para el ensayo de dispositivos mecánicos. Consiste en un software cliente, basado en JAVA SWING, y software PLC que corre en un sistema de accionamientos SIMOTION D425. El desarrollo fue objeto de mi [tesis de grado en ingeniería electrónica.](https://github.com/JuanHirschmann/SCDin/blob/main/bench/docs/Hirschmann%20-%20Tesis%20de%20grado.pdf)
+[SCDin](https://youtu.be/58xmZ-bK3QU) es un sistema de simulación de carga dinámica para el ensayo de dispositivos mecánicos. Consiste en un software cliente, basado en JAVA SWING, y software PLC que corre en un sistema de accionamientos SIMOTION D425. El desarrollo fue objeto de mi [tesis de grado en ingeniería electrónica.](https://github.com/JuanHirschmann/SCDin/blob/main/bench/docs/Hirschmann%20-%20Tesis%20de%20grado.pdf)
 <img width="1275" height="678" alt="image" src="https://github.com/user-attachments/assets/e16014a3-b65f-4c7d-ac4e-deb4f7676ba1" />
 
 
